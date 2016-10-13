@@ -35,5 +35,5 @@
     Hobby's: Voetbal, Muziek.
     
 <h1>Foto</h1>
-![alt tag (https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/10150807_906973506011685_8747200576491031456_n.jpg?oh=2e37cee72dafcbdbef4153b72b4588b0&oe=589EFB9F)]
+![alt tag] (https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/10150807_906973506011685_8747200576491031456_n.jpg?oh=2e37cee72dafcbdbef4153b72b4588b0&oe=589EFB9F)
     

@@ -1,16 +1,16 @@
 
 <h1>Personalia</h1>
-    <strong>Naam: </strong>Dries Dhondt<br>
-    <bold>Adres: </bold>Kempestraat 97 9800 Deinze<br>
-    <bold>Geslacht: </bold>Man<br>
-    <bold>Nationaliteit: </bold>Belg<br>
-    <bold>Burgerlijke staat: </bold>Ongehuwd<br>
-    <bold>Telefoon: </bold>0473 24 54 91<br>
-    <bold>Email: </bold>driesdhondt@hotmail.com
+<strong>Naam: </strong>Dries Dhondt<br>
+<strong>Adres: </strong>Kempestraat 97 9800 Deinze<br>
+<strong>Geslacht: </strong>Man<br>
+<strong>Nationaliteit: </strong>Belg<br>
+<strong>Burgerlijke staat: </strong>Ongehuwd<br>
+<strong>Telefoon: </strong>0473 24 54 91<br>
+<strong>Email: </strong>driesdhondt@hotmail.com
 
 <h1>Opleidingen</h1>
-    Lager onderwijs: Sint-Vincentius Deinze - Accountancy/IT 
-    Huidig: Arteveldehogeschool Mariakerke - Multimediaproductie
+<strong>Lager onderwijs: </strong>Sint-Vincentius Deinze - Accountancy/IT 
+<strong>Huidig: </strong>Arteveldehogeschool Mariakerke - Multimediaproductie
 
 <h1>Werkervaring</h1>
     Geen

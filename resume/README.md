@@ -1,6 +1,6 @@
 
 <h1>Personalia</h1>
-Dries Dhondt
+Dries Dhondt<br>
 Kempestraat 97 9800 Deinze
 Man
 Belg
